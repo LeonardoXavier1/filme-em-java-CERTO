@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\leona\\OneDrive\\Área de Trabalho\\trabalho\\java filme\\filme-java\\lib\\gson-2.10.1.jar",
+        "c:\\Users\\leona\\Downloads\\lib\\mysql-connector-j-8.0.32.jar"
+    ]
+}
